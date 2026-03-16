@@ -37,7 +37,7 @@ An AI-powered cron expression builder with bidirectional conversion — type in 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/cron-builder.git
+git clone https://github.com/tiwari-ashwani/cron-builder.git
 cd cron-builder
 
 # Install dependencies
